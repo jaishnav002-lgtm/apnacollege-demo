@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is my learning from yt 
-i am the creator -- jaishnav 
+i am the creator -- jaishnav (adithya)
+ cd 
